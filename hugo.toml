@@ -1,3 +1,4 @@
 baseURL = 'https://rma.st/'
 languageCode = 'en-us'
 title = 'Ryan Mast'
+theme = 'hugo-xmin'
