@@ -9,4 +9,3 @@ title = 'Ryan Mast'
 Some things that may be interesting:
 
 * [Nutribullet Balance controller using Web Bluetooth](https://rma.st/nutribullet/)
-
