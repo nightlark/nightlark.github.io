@@ -2,3 +2,8 @@ baseURL = 'https://rma.st/'
 languageCode = 'en-us'
 title = 'Ryan Mast'
 theme = 'hugo-xmin'
+
+[[menu.main]]
+name = "Home"
+url = ""
+weight = 1
